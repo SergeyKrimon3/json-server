@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "tasks": [
+    {
+      "title": "Primeira Tarefa EDITADA",
+      "description": "Descrição EDITADA",
+      "status": "pending",
+      "createdAt": "2025-05-31T17:07:30.892Z",
+      "id": "4a27"
+    },
+    {
+      "title": "Segunda Tarefa",
+      "description": "Descrição",
+      "status": "pending",
+      "createdAt": "2025-05-30T17:18:55.641Z",
+      "id": "5abd"
+    }
+  ]
 }
